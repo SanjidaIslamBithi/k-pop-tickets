@@ -1,0 +1,86 @@
+[
+    {
+      "key": "BWMXYL",
+      "id": 1,
+      "name": "BTS",
+      "members_num": 7,
+      "company": "Hype",
+      "origin": "South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTS_for_Dispatch_White_Day_Special%2C_27_February_2019_01.jpg",
+      "followers": "49.8M",
+      "price_ticket": 80,
+      "fandom_name": "ARMY"
+    },
+    {
+      "key": "AWMXYL",
+      "id": 2,
+      "name": "Blackpink",
+      "members_num": 4,
+      "company": "YG",
+      "origin": "South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blackpink_PUBG_210321.jpg/450px-Blackpink_PUBG_210321.jpg",
+      "followers": "40.8M",
+      "price_ticket": 50,
+      "fandom_name": "BLINKS"
+    },
+    {
+      "key": "CWMXYL",
+      "id": 3,
+      "name": "EXO",
+      "members_num": 9,
+      "company": "SM",
+      "origin": "South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Exo_monster_160618_suwon.png/450px-Exo_monster_160618_suwon.png",
+      "followers": "30.8M",
+      "price_ticket": 30,
+      "fandom_name": "EXO-L"
+    },
+    {
+      "key": "DWMXYL",
+      "id": 4,
+      "name": "Twice ",
+      "members_num": 9,
+      "company": "JYP",
+      "origin": "South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/180717_%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_02.jpg/384px-180717_%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_02.jpg",
+      "followers": "15M",
+      "price_ticket": 20,
+      "fandom_name": "Once"
+    },
+    {
+      "key": "EWMXYL",
+      "id": 5,
+      "name": "Red Velvet",
+      "members_num": 5,
+      "company": "SM",
+      "origin": "South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Red_Velvet_at_Soribada_Awards_on_August_23%2C_2019.png",
+      "followers": "20.8M",
+      "price_ticket": 30,
+      "fandom_name": "ReVeluv"
+    },
+    {
+      "key": "FWMXYL",
+      "id": 6,
+      "name": "TXT",
+      "members_num": 5,
+      "company": "Hype",
+      "origin":"South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TXT_at_Soribada_Awards_on_August_23%2C_2019.png/450px-TXT_at_Soribada_Awards_on_August_23%2C_2019.png",
+      "followers": "49.8M",
+      "price_ticket": 80,
+      "fandom_name": " MOA"
+    },
+    {
+      "key": "GWMXYL",
+      "id": 7,
+      "name": "Astro",
+      "members_num": 6,
+      "company": "fANTAGIO",
+      "origin":"South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_in_Sept_2017.png/450px-Astro_in_Sept_2017.png",
+      "followers": "40.8M",
+      "price_ticket": 80,
+      "fandom_name": "AROHA"
+    }
+  ]

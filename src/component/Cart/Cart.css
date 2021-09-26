@@ -1,0 +1,14 @@
+.calculation{
+    
+    background-color: rgb(255, 204, 212);
+    transition: 0.6s;
+}
+.calculation:hover {
+    /* background-color: rgb(255, 153, 204); */
+    box-shadow: 4px 4px 7px rgb(128, 128, 128);
+    border-radius: 10px;
+    border: 1px solid plum;
+  }
+  /* .btn{
+    text-align: center; 
+  } */
