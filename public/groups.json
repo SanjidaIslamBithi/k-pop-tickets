@@ -72,8 +72,32 @@
       "fandom_name": " MOA"
     },
     {
-      "key": "GWMXYL",
+      "key": "HWMXYL",
       "id": 7,
+      "name": "GOT7",
+      "members_num": 5,
+      "company": "YPJ",
+      "origin":"South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Got7_cheering_video_for_JYPE_16th_audition_01.jpg",
+      "followers": "47.8M",
+      "price_ticket": 80,
+      "fandom_name": "iGOT7"
+    },
+    {
+      "key": "IWMXYL",
+      "id": 6,
+      "name": "ITZY",
+      "members_num": 8,
+      "company": "JY",
+      "origin":"South Korea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ITZYSBSRadio2021.png/450px-ITZYSBSRadio2021.png",
+      "followers": "4M",
+      "price_ticket": 80,
+      "fandom_name": "ITZY"
+    },
+    {
+      "key": "GWMXYL",
+      "id": 8,
       "name": "Astro",
       "members_num": 6,
       "company": "fANTAGIO",
