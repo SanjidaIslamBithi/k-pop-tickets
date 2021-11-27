@@ -1,6 +1,6 @@
 # K-POP Concert
 
-[live link](https://k-pop-concert-tickets.netlify.app/) 
+[live link of website](https://k-pop-concert-tickets.netlify.app/) 
 
 ## A Concert-Ticket selling Project
 
